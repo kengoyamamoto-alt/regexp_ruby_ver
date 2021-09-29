@@ -1,5 +1,5 @@
-# regexp_ruby_ver
-## Chapter 1の使い方
+# 概要
+## Chapter 1の使い方　(ファイル名を連番に変換する)
 0.chapter1ディレクトリに移動する & 直下にinputとoutputフォルダを作成する
 
 1.inputフォルダに変換したいファイルを入れる
@@ -14,7 +14,7 @@
 ruby main.rb pdf sample
 ```
 
-## Chapter 2の使い方
+## Chapter 2の使い方（CSVから電話番号か判別　& 半角数字にしてCSVを生成）
 0.chapter2ディレクトリに移動する
 
 1.chapter2ディレクトリ直下にcsvを置く
