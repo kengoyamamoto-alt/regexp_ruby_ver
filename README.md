@@ -1,8 +1,11 @@
 # regexp_ruby_ver
 ## Chapter 1の使い方
 0.chapter1ディレクトリに移動する & 直下にinputとoutputフォルダを作成する
+
 1.inputフォルダに変換したいファイルを入れる
+
 2.chapter1ディレクトリにいることを確認して、下記コマンドを実行する
+
 3.変換されたファイルがoutputに入る
 
 ```
@@ -13,13 +16,17 @@ ruby main.rb pdf sample
 
 ## Chapter 2の使い方
 0.chapter2ディレクトリに移動する
+
 1.chapter2ディレクトリ直下にcsvを置く
+
 2.chapter2ディレクトリにいることを確認して、下記コマンドを実行する
+
 ```
 # 説明
 # ruby 実行ファイル（今回はphone.rb）
 ruby phone.rb  
 ```
+
 3.変換されたcsvがchapter2以下に生成される。
 
 ## 参考
