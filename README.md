@@ -1,6 +1,6 @@
 # regexp_ruby_ver
 ## Chapter 1の使い方
-0.chapter1ディレクトリに移動する
+0.chapter1ディレクトリに移動する & 直下にinputとoutputフォルダを作成する
 1.inputフォルダに変換したいファイルを入れる
 2.chapter1ディレクトリにいることを確認して、下記コマンドを実行する
 3.変換されたファイルがoutputに入る
